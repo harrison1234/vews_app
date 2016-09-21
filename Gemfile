@@ -21,6 +21,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise'
+gem 'paperclip', '~> 4.2'
 
 
 group :development, :test do
