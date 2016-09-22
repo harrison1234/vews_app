@@ -15,7 +15,8 @@ gem 'coffee-rails', '~> 4.2'
 
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
-gem 'turbolinks', '~> 5'
+
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
@@ -23,6 +24,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise'
 gem 'paperclip', '~> 4.2'
 gem 'aws-sdk', '< 2.0'
+gem 'masonry-rails', '~> 0.2.0'
 
 
 group :development, :test do
